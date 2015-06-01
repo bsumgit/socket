@@ -1,0 +1,4 @@
+# ignore file list
+
+# ignore: bin directory file
+bin/*
